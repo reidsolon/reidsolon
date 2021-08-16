@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Alt Text](https://c.tenor.com/l5DZIHMvuH4AAAAC/shoto-todoroki-shoto.gif)
+
 ### I'm a Fullstack Web Developer
 
 - 🔭 I’m currently working on web development projects
