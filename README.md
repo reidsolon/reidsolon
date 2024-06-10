@@ -72,7 +72,7 @@
 > **Position:** Fullstack Developer <br />
 > **Year:** 2020+ <br />
 > **Stack:** Website: Vue 2.6 - CodeIgniter 3+; Mobile: Cordova - Vue 2.6; API - CodeIgniter 3+ <br />
-> **Contribution:** Part of the backend development, creating an API for the mobile platform devs to consume. Also worked in CMS using Nuxt 3 <br />
+> **Contribution:** Part of the backend development to create API used for website and application. I also developed and deployed the v1 hybrid application using vue2 + cordova <br />
 > **Description:** An e-commerce web and mobile application exclusive in Cebu <br />
 > **Location:** Cebu, Philippines <br />
 <div style="display: flex;">
