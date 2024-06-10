@@ -10,14 +10,58 @@
 
 ### Projects 
 
+**Jigsaw: Tradie Marketplace** [link](https://jigsawapp.com.au/)
+> [!NOTE]
+> **Position:** Sr. Fullstack Developer <br />
+> **Stack:** Laravel 10 / Nuxt 3 <br />
+> **Contribution:** Part of the backend development, creating an API for the mobile platform devs to consume. Also worked in CMS using Nuxt 3 <br />
+> **Description:** A platform that allows tradies to buy and sell surplus materials that they have left over from jobs as well as new product <br />
+> **Location:** Australia <br />
+<div style="display: flex;">
+<img src="https://raw.githubusercontent.com/reidsolon/project-images/main/jigsaw-2.webp" alt="Jigsaw App AU" width="100px" />
+<img src="https://raw.githubusercontent.com/reidsolon/project-images/main/jigsaw-single.webp" alt="Jigsaw App AU" width="100px" />
+</div>
+
+<hr />
+
+**Loyali One** [link](https://loyalione.com.au/)
+> [!NOTE]
+> **Position:** Sr. Fullstack Developer <br />
+> **Stack:** Laravel 10 / Nuxt 3 <br />
+> **Contribution:** Part of the backend development, creating an API for the mobile platform devs to consume. Also worked in CMS using Nuxt 3 <br />
+> **Description:** A digital membership app where users can view their loyalty cards for merchants in one place, can pre-purchase items from all merchants and pickup in store <br />
+> **Location:** Australia <br />
+<div style="display: flex;">
+<img src="https://raw.githubusercontent.com/reidsolon/project-images/main/Loyali.webp" alt="Loyali One App AU" width="100px" />
+<img src="https://raw.githubusercontent.com/reidsolon/project-images/main/playstore1.webp" alt="Loyali One App AU" width="100px" />
+</div>
+
+<hr />
+
 **Activfy** [link](https://activfyapp.com/)
 > [!NOTE]
-> **Position:** Fullstack Developer
-> **Contribution:** Part of the backend development, creating an API for the mobile platform devs to consume. Also worked in CMS using Nuxt 3
-> **Description:** An Online Personal Training App for Trainer & Clients
-> **Location:** Australia
-> ![Activfy App](https://raw.githubusercontent.com/reidsolon/project-images/main/Activfy_Screenshots.webp)
+> **Position:** Fullstack Developer <br />
+> **Stack:** Laravel 10 / Nuxt 3 <br />
+> **Contribution:** Part of the backend development, creating an API for the mobile platform devs to consume. Also worked in CMS using Nuxt 3 <br />
+> **Description:** An Online Personal Training App for Trainer & Clients <br />
+> **Location:** Australia <br />
+<img src="https://raw.githubusercontent.com/reidsolon/project-images/main/Activfy_Screenshots.webp" alt="Activfy App AU" width="150px" />
 
+<hr />
+
+**Logoji** [link](https://logoji.com/)
+> [!NOTE]
+> **Position:** Fullstack Developer <br />
+> **Stack:** Laravel 10 / Nuxt 3 <br />
+> **Contribution:** Part of the backend development, creating an API for the mobile platform devs to consume. Also worked in CMS using Nuxt 3 <br />
+> **Description:** An app that gives you an easiest and most convenient way to find, suggest and connect with businesses in australia <br />
+> **Location:** Australia <br />
+<div style="display: flex;">
+<img src="https://raw.githubusercontent.com/reidsolon/project-images/main/Logoji1.webp" alt="Logoji App AU" width="100px" />
+<img src="https://raw.githubusercontent.com/reidsolon/project-images/main/Logoji2.png" alt="Logoji App AU" width="100px" />
+</div>
+
+<hr />
 
 ### Connect with me
 <p><a href="https://www.linkedin.com/in/ray-anthony-37b1331b2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
