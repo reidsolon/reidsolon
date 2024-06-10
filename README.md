@@ -8,6 +8,17 @@
 - 🌱 I’m currently learning everything
 - ⚡ Fun fact: Web Development is Not Web Design
 
+### Projects 
+
+**Activfy** [link](https://activfyapp.com/)
+> [!NOTE]
+> **Position:** Fullstack Developer
+> **Contribution:** Part of the backend development, creating an API for the mobile platform devs to consume. Also worked in CMS using Nuxt 3
+> **Description:** An Online Personal Training App for Trainer & Clients
+> **Location:** Australia
+> ![Activfy App](https://raw.githubusercontent.com/reidsolon/project-images/main/Activfy_Screenshots.webp)
+
+
 ### Connect with me
 <p><a href="https://www.linkedin.com/in/ray-anthony-37b1331b2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
