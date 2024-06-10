@@ -57,8 +57,8 @@
 > **Description:** An app that gives you an easiest and most convenient way to find, suggest and connect with businesses in australia <br />
 > **Location:** Australia <br />
 <div style="display: flex;">
-<img src="https://raw.githubusercontent.com/reidsolon/project-images/main/Logoji1.webp" alt="Logoji App AU" width="100px" />
-<img src="https://raw.githubusercontent.com/reidsolon/project-images/main/Logoji2.png" alt="Logoji App AU" width="100px" />
+<img src="https://raw.githubusercontent.com/reidsolon/project-images/main/Logoji2.webp" alt="Logoji App AU" width="100px" />
+<img src="https://raw.githubusercontent.com/reidsolon/project-images/main/Logoji1.png" alt="Logoji App AU" width="100px" />
 </div>
 
 <hr />
