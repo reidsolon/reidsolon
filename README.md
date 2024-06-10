@@ -13,6 +13,7 @@
 **Jigsaw: Tradie Marketplace** [link](https://jigsawapp.com.au/)
 > [!NOTE]
 > **Position:** Sr. Fullstack Developer <br />
+> **Year:** 2024+ <br />
 > **Stack:** Laravel 10 / Nuxt 3 <br />
 > **Contribution:** Part of the backend development, creating an API for the mobile platform devs to consume. Also worked in CMS using Nuxt 3 <br />
 > **Description:** A platform that allows tradies to buy and sell surplus materials that they have left over from jobs as well as new product <br />
@@ -27,6 +28,7 @@
 **Loyali One** [link](https://loyalione.com.au/)
 > [!NOTE]
 > **Position:** Sr. Fullstack Developer <br />
+> **Year:** 2024+ <br />
 > **Stack:** Laravel 10 / Nuxt 3 <br />
 > **Contribution:** Part of the backend development, creating an API for the mobile platform devs to consume. Also worked in CMS using Nuxt 3 <br />
 > **Description:** A digital membership app where users can view their loyalty cards for merchants in one place, can pre-purchase items from all merchants and pickup in store <br />
@@ -41,6 +43,7 @@
 **Activfy** [link](https://activfyapp.com/)
 > [!NOTE]
 > **Position:** Fullstack Developer <br />
+> **Year:** 2023+ <br />
 > **Stack:** Laravel 10 / Nuxt 3 <br />
 > **Contribution:** Part of the backend development, creating an API for the mobile platform devs to consume. Also worked in CMS using Nuxt 3 <br />
 > **Description:** An Online Personal Training App for Trainer & Clients <br />
@@ -52,6 +55,7 @@
 **Logoji** [link](https://logoji.com/)
 > [!NOTE]
 > **Position:** Fullstack Developer <br />
+> **Year:** 2023+ <br />
 > **Stack:** Laravel 10 / Nuxt 3 <br />
 > **Contribution:** Part of the backend development, creating an API for the mobile platform devs to consume. Also worked in CMS using Nuxt 3 <br />
 > **Description:** An app that gives you an easiest and most convenient way to find, suggest and connect with businesses in australia <br />
@@ -59,6 +63,21 @@
 <div style="display: flex;">
 <img src="https://raw.githubusercontent.com/reidsolon/project-images/main/Logoji2.webp" alt="Logoji App AU" width="100px" />
 <img src="https://raw.githubusercontent.com/reidsolon/project-images/main/Logoji1.png" alt="Logoji App AU" width="100px" />
+</div>
+
+<hr />
+
+**CloudKart PH v1 Website** [link](https://cloudkart.ph/)
+> [!NOTE]
+> **Position:** Fullstack Developer <br />
+> **Year:** 2020+ <br />
+> **Stack:** Website: Vue 2.6 - CodeIgniter 3+; Mobile: Cordova - Vue 2.6; API - CodeIgniter 3+ <br />
+> **Contribution:** Part of the backend development, creating an API for the mobile platform devs to consume. Also worked in CMS using Nuxt 3 <br />
+> **Description:** An e-commerce web and mobile application exclusive in Cebu <br />
+> **Location:** Cebu, Philippines <br />
+<div style="display: flex;">
+<img src="https://raw.githubusercontent.com/reidsolon/project-images/main/ckart.jpg" alt="CloudKart" width="100px" />
+<img src="https://raw.githubusercontent.com/reidsolon/project-images/main/CloudKart1.webp" alt="CloudKart" width="100px" />
 </div>
 
 <hr />
