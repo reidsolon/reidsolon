@@ -11,7 +11,11 @@
 ### Projects 
 
 **Jigsaw: Tradie Marketplace** [link](https://jigsawapp.com.au/)
-> [!NOTE]
+<details open>
+<summary>See Project Description</summary>
+</details>
+
+> [!NOTE] <br />
 > **Position:** Sr. Fullstack Developer <br />
 > **Year:** 2024+ <br />
 > **Stack:** Laravel 10 / Nuxt 3 <br />
@@ -26,7 +30,11 @@
 <hr />
 
 **Loyali One** [link](https://loyalione.com.au/)
-> [!NOTE]
+
+<details>
+<summary>See Project Description</summary>
+
+> [!NOTE] <br />
 > **Position:** Sr. Fullstack Developer <br />
 > **Year:** 2024+ <br />
 > **Stack:** Laravel 10 / Nuxt 3 <br />
@@ -38,10 +46,16 @@
 <img src="https://raw.githubusercontent.com/reidsolon/project-images/main/playstore1.webp" alt="Loyali One App AU" width="100px" />
 </div>
 
+</details>
+
 <hr />
 
 **Activfy** [link](https://activfyapp.com/)
-> [!NOTE]
+
+<details>
+<summary>See Project Description</summary>
+
+> [!NOTE] <br />
 > **Position:** Fullstack Developer <br />
 > **Year:** 2023+ <br />
 > **Stack:** Laravel 10 / Nuxt 3 <br />
@@ -50,10 +64,15 @@
 > **Location:** Australia <br />
 <img src="https://raw.githubusercontent.com/reidsolon/project-images/main/Activfy_Screenshots.webp" alt="Activfy App AU" width="150px" />
 
+</details>
+
 <hr />
 
 **Logoji** [link](https://logoji.com/)
-> [!NOTE]
+<details>
+<summary>See Project Description</summary>
+
+> [!NOTE] <br />
 > **Position:** Fullstack Developer <br />
 > **Year:** 2023+ <br />
 > **Stack:** Laravel 10 / Nuxt 3 <br />
@@ -65,10 +84,15 @@
 <img src="https://raw.githubusercontent.com/reidsolon/project-images/main/Logoji1.png" alt="Logoji App AU" width="100px" />
 </div>
 
+</details>
+
 <hr />
 
 **CloudKart PH v1 Website** [link](https://cloudkart.ph/)
-> [!NOTE]
+<details>
+<summary>See Project Description</summary>
+
+> [!NOTE] <br />
 > **Position:** Fullstack Developer <br />
 > **Year:** 2020+ <br />
 > **Stack:** Website: Vue 2.6 - CodeIgniter 3+; Mobile: Cordova - Vue 2.6; API - CodeIgniter 3+ <br />
@@ -80,12 +104,12 @@
 <img src="https://raw.githubusercontent.com/reidsolon/project-images/main/CloudKart1.webp" alt="CloudKart" width="100px" />
 </div>
 
+</details>
+
 <hr />
 
 ### Connect with me
 <p><a href="https://www.linkedin.com/in/ray-anthony-37b1331b2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-<a href="javascript:void(0)"><img src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white" /></a></p>
 <br />
 
 ### Languages and Tools:
