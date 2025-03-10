@@ -12,7 +12,7 @@ Come visit my website [https://ray-anthony.dev/](https://ray-anthony.dev/)
 
 ### Projects 
 
-**Jigsaw: Tradie Marketplace** [link](https://jigsawapp.com.au/)
+**Payzen** [link](https://payzenapp.com/)
 <details open>
 <summary>See Project Description</summary>
 </details>
@@ -20,7 +20,28 @@ Come visit my website [https://ray-anthony.dev/](https://ray-anthony.dev/)
 > [!NOTE] <br />
 > **Position:** Sr. Fullstack Developer <br />
 > **Year:** 2024+ <br />
-> **Stack:** Laravel 10 / Nuxt 3 <br />
+> **Stack:** Laravel 10 / Nuxt 3 / Filament / AWS / Stripe <br />
+> **Contribution:** I was responsible for designing and managing the backend structure, including the database architecture and data flow processes. I worked closely with the project manager, providing valuable input and suggestions to streamline development and ensure the project met its goals efficiently. My role involved not only building a robust backend but also collaborating with the team to improve workflows and solve challenges as they arose. <br /> As a lead developer, I collaborate closely with my colleagues to conduct thorough code reviews and ensure adherence to coding standards, fostering a high-quality and maintainable codebase. <br />
+> **Description:** A Secure Streamlined Mobile App where business owners and customers communicate, settle payments and share job updates. <br />
+> **Location:** Australia <br />
+<div style="display: flex;">
+<img src="https://raw.githubusercontent.com/reidsolon/project-images/main/payzen1.png" alt="Payzen App AU" width="100px" />
+<img src="https://raw.githubusercontent.com/reidsolon/project-images/main/payzen2.png" alt="Payzen App AU" width="100px" />
+<img src="https://raw.githubusercontent.com/reidsolon/project-images/main/payzen3.png" alt="Payzen App AU" width="100px" />
+<img src="https://raw.githubusercontent.com/reidsolon/project-images/main/payzen4.png" alt="Payzen App AU" width="100px" />
+</div>
+
+<hr />
+
+**Jigsaw: Tradie Marketplace** [link](https://jigsawapp.com.au/)
+<details>
+<summary>See Project Description</summary>
+</details>
+
+> [!NOTE] <br />
+> **Position:** Sr. Fullstack Developer <br />
+> **Year:** 2024+ <br />
+> **Stack:** Laravel 10 / Nuxt 3 / Filament / AWS / Stripe <br />
 > **Contribution:** Part of the backend development, creating an API for the mobile platform devs to consume. Also worked in CMS using Nuxt 3 <br />
 > **Description:** A platform that allows tradies to buy and sell surplus materials that they have left over from jobs as well as new product <br />
 > **Location:** Australia <br />
@@ -40,7 +61,10 @@ Come visit my website [https://ray-anthony.dev/](https://ray-anthony.dev/)
 > **Position:** Sr. Fullstack Developer <br />
 > **Year:** 2024+ <br />
 > **Stack:** Laravel 10 / Nuxt 3 <br />
-> **Contribution:** Part of the backend development, creating an API for the mobile platform devs to consume. Also worked in CMS using Nuxt 3 <br />
+> **Contribution:** 
+In this project, I was responsible for designing and managing the backend structure, including the database architecture and data flow processes. I worked closely with the project manager, providing valuable input and suggestions to streamline development and ensure the project met its goals efficiently. My role involved not only building a robust backend but also collaborating with the team to improve workflows and solve challenges as they arose. <br />
+
+As a lead developer, I collaborate closely with my colleagues to conduct thorough code reviews and ensure adherence to coding standards, fostering a high-quality and maintainable codebase. <br />
 > **Description:** A digital membership app where users can view their loyalty cards for merchants in one place, can pre-purchase items from all merchants and pickup in store <br />
 > **Location:** Australia <br />
 <div style="display: flex;">
