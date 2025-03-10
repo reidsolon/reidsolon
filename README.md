@@ -12,7 +12,7 @@ Come visit my website [https://ray-anthony.dev/](https://ray-anthony.dev/)
 
 ### Projects 
 
-**Payzen** [link](https://payzenapp.com/)
+**Zero2Seventeen** [link](https://payzenapp.com/)
 <details open>
 <summary>See Project Description</summary>
 </details>
@@ -20,7 +20,25 @@ Come visit my website [https://ray-anthony.dev/](https://ray-anthony.dev/)
 > [!NOTE] <br />
 > **Position:** Sr. Fullstack Developer <br />
 > **Year:** 2024+ <br />
-> **Stack:** Laravel 10 / Nuxt 3 / Filament / AWS / Stripe <br />
+> **Stack:** Laravel 10 / Filament / AWS / Ably / Firebase / Google Places, Geocoding <br />
+> **Contribution:** I was responsible for designing and managing the backend structure, including the database architecture and data flow processes. I worked closely with the project manager, providing valuable input and suggestions to streamline development and ensure the project met its goals efficiently. My role involved not only building a robust backend but also collaborating with the team to improve workflows and solve challenges as they arose. <br /> As a lead developer, I collaborate closely with my colleagues to conduct thorough code reviews and ensure adherence to coding standards, fostering a high-quality and maintainable codebase. <br />
+> **Description:** to create a marketplace that not only facilitates transactions but also nurtures a sense of belonging. The app promotes a culture of conscious consumption, encouraging families to embrace second-hand items as a viable, environmentally friendly alternative to buying new. <br />
+> **Location:** Australia <br />
+<div style="display: flex;">
+<img src="https://raw.githubusercontent.com/reidsolon/project-images/main/zero1.webp" alt="Payzen App AU" width="100px" />
+<img src="https://raw.githubusercontent.com/reidsolon/project-images/main/zero2.webp" alt="Payzen App AU" width="100px" />
+<img src="https://raw.githubusercontent.com/reidsolon/project-images/main/zero3.webp" alt="Payzen App AU" width="100px" />
+<img src="https://raw.githubusercontent.com/reidsolon/project-images/main/zero4.webp" alt="Payzen App AU" width="100px" />
+</div>
+
+**Payzen** [link](https://payzenapp.com/)
+<details>
+<summary>See Project Description</summary>
+
+> [!NOTE] <br />
+> **Position:** Sr. Fullstack Developer <br />
+> **Year:** 2024+ <br />
+> **Stack:** Laravel 10 / Filament / AWS / Ably / Stripe / Firebase <br />
 > **Contribution:** I was responsible for designing and managing the backend structure, including the database architecture and data flow processes. I worked closely with the project manager, providing valuable input and suggestions to streamline development and ensure the project met its goals efficiently. My role involved not only building a robust backend but also collaborating with the team to improve workflows and solve challenges as they arose. <br /> As a lead developer, I collaborate closely with my colleagues to conduct thorough code reviews and ensure adherence to coding standards, fostering a high-quality and maintainable codebase. <br />
 > **Description:** A Secure Streamlined Mobile App where business owners and customers communicate, settle payments and share job updates. <br />
 > **Location:** Australia <br />
@@ -30,6 +48,7 @@ Come visit my website [https://ray-anthony.dev/](https://ray-anthony.dev/)
 <img src="https://raw.githubusercontent.com/reidsolon/project-images/main/payzen3.png" alt="Payzen App AU" width="100px" />
 <img src="https://raw.githubusercontent.com/reidsolon/project-images/main/payzen4.png" alt="Payzen App AU" width="100px" />
 </div>
+</details>
 
 <hr />
 
@@ -40,7 +59,7 @@ Come visit my website [https://ray-anthony.dev/](https://ray-anthony.dev/)
 > [!NOTE] <br />
 > **Position:** Sr. Fullstack Developer <br />
 > **Year:** 2024+ <br />
-> **Stack:** Laravel 10 / Nuxt 3 / Filament / AWS / Stripe <br />
+> **Stack:** Laravel 10 / Filament / AWS / Stripe / Firebase <br />
 > **Contribution:** In this project, I was responsible for designing and managing the backend structure, including the database architecture and data flow processes. I worked closely with the project manager, providing valuable input and suggestions to streamline development and ensure the project met its goals efficiently. My role involved not only building a robust backend but also collaborating with the team to improve workflows and solve challenges as they arose. <br /> As a lead developer, I collaborate closely with my colleagues to conduct thorough code reviews and ensure adherence to coding standards, fostering a high-quality and maintainable codebase. <br />
 > **Description:** A digital membership app where users can view their loyalty cards for merchants in one place, can pre-purchase items from all merchants and pickup in store <br />
 > **Location:** Australia <br />
