@@ -36,7 +36,6 @@ Come visit my website [https://ray-anthony.dev/](https://ray-anthony.dev/)
 **Jigsaw: Tradie Marketplace** [link](https://jigsawapp.com.au/)
 <details>
 <summary>See Project Description</summary>
-</details>
 
 > [!NOTE] <br />
 > **Position:** Sr. Fullstack Developer <br />
@@ -52,6 +51,7 @@ Come visit my website [https://ray-anthony.dev/](https://ray-anthony.dev/)
 <img src="https://raw.githubusercontent.com/reidsolon/project-images/main/jigsaw-single.webp" alt="Jigsaw App AU" width="100px" />
 </div>
 
+</details>
 <hr />
 
 **Loyali One** [link](https://loyalione.com.au/)
