@@ -32,6 +32,7 @@ Come visit my website [https://ray-anthony.dev/](https://ray-anthony.dev/)
 </div>
 
 <hr />
+
 **Payzen** [link](https://payzenapp.com/)
 <details>
 <summary>See Project Description</summary>
