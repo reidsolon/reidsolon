@@ -31,6 +31,7 @@ Come visit my website [https://ray-anthony.dev/](https://ray-anthony.dev/)
 <img src="https://raw.githubusercontent.com/reidsolon/project-images/main/zero4.webp" alt="Payzen App AU" width="100px" />
 </div>
 
+<hr />
 **Payzen** [link](https://payzenapp.com/)
 <details>
 <summary>See Project Description</summary>
