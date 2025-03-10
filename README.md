@@ -19,7 +19,7 @@ Come visit my website [https://ray-anthony.dev/](https://ray-anthony.dev/)
 
 > [!NOTE] <br />
 > **Position:** Sr. Fullstack Developer <br />
-> **Year:** 2024+ <br />
+> **Year:** 2025+ <br />
 > **Stack:** Laravel 10 / Filament / AWS / Ably / Firebase / Google Places, Geocoding <br />
 > **Contribution:** I was responsible for designing and managing the backend structure, including the database architecture and data flow processes. I worked closely with the project manager, providing valuable input and suggestions to streamline development and ensure the project met its goals efficiently. My role involved not only building a robust backend but also collaborating with the team to improve workflows and solve challenges as they arose. <br /> As a lead developer, I collaborate closely with my colleagues to conduct thorough code reviews and ensure adherence to coding standards, fostering a high-quality and maintainable codebase. <br />
 > **Description:** to create a marketplace that not only facilitates transactions but also nurtures a sense of belonging. The app promotes a culture of conscious consumption, encouraging families to embrace second-hand items as a viable, environmentally friendly alternative to buying new. <br />
