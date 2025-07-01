@@ -12,7 +12,7 @@ Come visit my website [https://ray-anthony.dev/](https://ray-anthony.dev/)
 
 ### Projects 
 
-**Zero2Seventeen** [link](https://payzenapp.com/)
+**Zero2Seventeen** [link](https://www.zero2seventeen.com/)
 <details open>
 <summary>See Project Description</summary>
 </details>
