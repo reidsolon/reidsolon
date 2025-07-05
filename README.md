@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Alt Text](https://c.tenor.com/l5DZIHMvuH4AAAAC/shoto-todoroki-shoto.gif)
+<img src="https://c.tenor.com/l5DZIHMvuH4AAAAC/shoto-todoroki-shoto.gif" style="width: 100%" alt="Ray Anthony Developer"/>
 
 Come visit my website [https://ray-anthony.dev/](https://ray-anthony.dev/)
 
