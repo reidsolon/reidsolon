@@ -18,7 +18,7 @@ Come visit my website [https://ray-anthony.dev/](https://ray-anthony.dev/)
 </details>
 
 > [!NOTE] <br />
-> **Position:** Sr. Fullstack Developer <br />
+> **Position:** Lead Fullstack Developer <br />
 > **Year:** 2025+ <br />
 > **Stack:** Laravel 10 / Filament / AWS / Ably / Firebase / Google Places, Geocoding <br />
 > **Contribution:** I was responsible for designing and managing the backend structure, including the database architecture and data flow processes. I worked closely with the project manager, providing valuable input and suggestions to streamline development and ensure the project met its goals efficiently. My role involved not only building a robust backend but also collaborating with the team to improve workflows and solve challenges as they arose. <br /> As a lead developer, I collaborate closely with my colleagues to conduct thorough code reviews and ensure adherence to coding standards, fostering a high-quality and maintainable codebase. <br />
@@ -38,7 +38,7 @@ Come visit my website [https://ray-anthony.dev/](https://ray-anthony.dev/)
 <summary>See Project Description</summary>
 
 > [!NOTE] <br />
-> **Position:** Sr. Fullstack Developer <br />
+> **Position:** Lead Fullstack Developer <br />
 > **Year:** 2024+ <br />
 > **Stack:** Laravel 10 / Filament / AWS / Ably / Stripe / Firebase <br />
 > **Contribution:** I was responsible for designing and managing the backend structure, including the database architecture and data flow processes. I worked closely with the project manager, providing valuable input and suggestions to streamline development and ensure the project met its goals efficiently. My role involved not only building a robust backend but also collaborating with the team to improve workflows and solve challenges as they arose. <br /> As a lead developer, I collaborate closely with my colleagues to conduct thorough code reviews and ensure adherence to coding standards, fostering a high-quality and maintainable codebase. <br />
@@ -59,7 +59,7 @@ Come visit my website [https://ray-anthony.dev/](https://ray-anthony.dev/)
 <summary>See Project Description</summary>
 
 > [!NOTE] <br />
-> **Position:** Sr. Fullstack Developer <br />
+> **Position:** Lead Fullstack Developer <br />
 > **Year:** 2024+ <br />
 > **Stack:** Laravel 10 / Filament / AWS / Stripe / Firebase <br />
 > **Contribution:** In this project, I was responsible for designing and managing the backend structure, including the database architecture and data flow processes. I worked closely with the project manager, providing valuable input and suggestions to streamline development and ensure the project met its goals efficiently. My role involved not only building a robust backend but also collaborating with the team to improve workflows and solve challenges as they arose. <br /> As a lead developer, I collaborate closely with my colleagues to conduct thorough code reviews and ensure adherence to coding standards, fostering a high-quality and maintainable codebase. <br />
@@ -81,7 +81,7 @@ Come visit my website [https://ray-anthony.dev/](https://ray-anthony.dev/)
 <summary>See Project Description</summary>
 
 > [!NOTE] <br />
-> **Position:** Sr. Fullstack Developer <br />
+> **Position:** Lead Fullstack Developer <br />
 > **Year:** 2024+ <br />
 > **Stack:** Laravel 10 / Nuxt 3 <br />
 > **Contribution:** 
